@@ -1,8 +1,8 @@
 <!--
- * @LastEditTime: 2021-02-14 23:45:23
+ * @LastEditTime: 2021-02-14 23:46:50
  * @LastEditors: jinxiaojian
 -->
-# web arr 实验
+# web ar 实验
 
 [ar](./ar.html)
 [aframe](./aframe.html)
